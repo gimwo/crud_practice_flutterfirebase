@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040849745722",
+    "project_id": "crud-tutorial-80cdf",
+    "storage_bucket": "crud-tutorial-80cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040849745722:android:ac24fa2c5771c471f38203",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbjxFU7DPuUlw280u4vaK72r4_rZL-Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
